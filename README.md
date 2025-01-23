@@ -1,1 +1,2 @@
-# 23-01-25-learning-about-version-control
+# Learning about Version Control
+## Author: Zhanerke Zhumash (25401332)
